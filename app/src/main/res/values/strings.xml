@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Tour Guide App</string>
+
+    <!-- Category name for the Theme Parks Category [CHAR LIMIT=20] -->
+    <string name="category_theme_parks">Theme Parks</string>
+
+    <!-- Category name for the resorts Category [CHAR LIMIT=20] -->
+    <string name="category_resorts">Resorts</string>
+
+    <!-- Category name for the golf Category [CHAR LIMIT=20] -->
+    <string name="category_golf">Golf Courses</string>
+
+    <!-- Category name for the entertainment Category [CHAR LIMIT=20] -->
+    <string name="category_entertainment">Entertainment</string>
+
 </resources>
