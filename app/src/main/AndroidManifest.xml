@@ -15,10 +15,19 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ThemeParksActivity" />
-        <activity android:name=".ResortsActivity" />
-        <activity android:name=".GolfActivity" />
-        <activity android:name=".EntertainmentActivity"></activity>
+        <activity android:name=".ThemeParksActivity"
+                  android:label="Theme Parks"
+                  android:parentActivityName=".MainActivity"/>
+        <activity android:name=".ResortsActivity"
+                  android:label="Resorts"
+                  android:parentActivityName=".MainActivity"/>
+        <activity android:name=".GolfActivity"
+                  android:label="Golf Courses"
+                  android:parentActivityName=".MainActivity"/>
+        <activity android:name=".EntertainmentActivity"
+                  android:label="Entertainment"
+                  android:parentActivityName=".MainActivity">
+        </activity>
     </application>
 
 </manifest>

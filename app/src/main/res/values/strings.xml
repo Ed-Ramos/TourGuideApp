@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Tour Guide App</string>
+    <string name="app_name">Orlando Tour Guide App</string>
 
     <!-- Category name for the Theme Parks Category [CHAR LIMIT=20] -->
     <string name="category_theme_parks">Theme Parks</string>

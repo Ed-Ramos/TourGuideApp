@@ -50,7 +50,7 @@
         android:layout_height="wrap_content"
         android:background="@color/category_entertainment">
         <TextView
-            android:id="@+id/entertainmenr"
+            android:id="@+id/entertainment"
             style="@style/CategoryStyle"
             android:background="?android:attr/selectableItemBackground"
             android:text="@string/category_entertainment" />
