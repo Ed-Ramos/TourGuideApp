@@ -16,16 +16,16 @@
             </intent-filter>
         </activity>
         <activity android:name=".ThemeParksActivity"
-                  android:label="Theme Parks"
+                  android:label="@string/category_theme_parks"
                   android:parentActivityName=".MainActivity"/>
         <activity android:name=".ResortsActivity"
-                  android:label="Resorts"
+                  android:label="@string/category_resorts"
                   android:parentActivityName=".MainActivity"/>
         <activity android:name=".GolfActivity"
-                  android:label="Golf Courses"
+                  android:label="@string/category_golf"
                   android:parentActivityName=".MainActivity"/>
         <activity android:name=".EntertainmentActivity"
-                  android:label="Entertainment"
+                  android:label="@string/category_entertainment"
                   android:parentActivityName=".MainActivity">
         </activity>
     </application>
