@@ -1,7 +1,8 @@
 package com.example.android.tourguideapp;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.widget.ListView;
 
 import java.util.ArrayList;
 
@@ -20,6 +21,14 @@ public class ThemeParksActivity extends AppCompatActivity {
         locations.add(new Location("ThemePark3","ThemeParkInfo3"));
         locations.add(new Location("ThemePark4","ThemeParkInfo4"));
         locations.add(new Location("ThemePark5","ThemeParkInfo5"));
+
+
+        LocationAdapter  adapter =
+                new LocationAdapter(this,locations);
+
+        ListView listView = (ListView) findViewById(R.id.list);
+
+        listView.setAdapter(adapter);
 
 
     }
