@@ -17,6 +17,11 @@ public class LocationAdapter extends ArrayAdapter<Location> {
 
 
     public LocationAdapter(Activity context, ArrayList<Location> locations) {
+
+        // Initialize the ArrayAdapter's internal storage for the context and the list.
+        // Since we are using a custom adapter for two TextViews and an ImageView, the adapter does not
+        // use the second argument. It can can be any value. Here, we used 0. NOTE: This argument is used
+        // when the ArrayAdapter is populating a single TextView
         super(context, 0, locations);
     }
 

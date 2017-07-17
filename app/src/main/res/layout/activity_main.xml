@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:background="@color/tan_background"
-    tools:context="com.example.android.tourguideapp.MainActivity">
 
-    <!-- Theme Parks category -->
-    <FrameLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@color/category_theme_parks">
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/table_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TableRow
+        android:id="@+id/row_1"
+        android:layout_weight="1"
+        android:gravity="center">
+
         <TextView
             android:id="@+id/theme_parks"
             style="@style/CategoryStyle"
-            android:background="?android:attr/selectableItemBackground"
-            android:text="@string/category_theme_parks" />
-    </FrameLayout>
+            android:background="@color/category_theme_parks"
+            android:layout_marginStart="2dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+            android:text="@string/category_theme_parks"/>
 
-    <!-- Resorts category -->
-    <FrameLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@color/category_resorts">
+
         <TextView
             android:id="@+id/resorts"
             style="@style/CategoryStyle"
-            android:background="?android:attr/selectableItemBackground"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+            android:background="@color/category_resorts"
             android:text="@string/category_resorts" />
-    </FrameLayout>
+     </TableRow>
 
-    <!-- Golf category -->
-    <FrameLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@color/category_golf">
+
+    <TableRow
+        android:id="@+id/row_2"
+        android:layout_weight="1"
+        android:gravity="center">
+
         <TextView
             android:id="@+id/golf"
             style="@style/CategoryStyle"
-            android:background="?android:attr/selectableItemBackground"
+            android:background="@color/category_golf"
+            android:layout_marginStart="2dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginBottom="2dp"
             android:text="@string/category_golf" />
-    </FrameLayout>
 
-    <!-- Entertainment category -->
-    <FrameLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@color/category_entertainment">
         <TextView
             android:id="@+id/entertainment"
             style="@style/CategoryStyle"
-            android:background="?android:attr/selectableItemBackground"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginBottom="2dp"
+            android:background="@color/category_entertainment"
             android:text="@string/category_entertainment" />
-    </FrameLayout>
+    </TableRow>
 
+</TableLayout>
 
-
-</LinearLayout>

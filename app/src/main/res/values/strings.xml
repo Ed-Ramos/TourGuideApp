@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Orlando Tour Guide App</string>
+    <string name="app_name">Orlando Guide</string>
 
     <!-- Category name for the Theme Parks Category [CHAR LIMIT=20] -->
     <string name="category_theme_parks">Theme Parks</string>
@@ -12,5 +12,31 @@
 
     <!-- Category name for the entertainment Category [CHAR LIMIT=20] -->
     <string name="category_entertainment">Entertainment</string>
+
+    <!-- Theme Park names and information -->
+    <string name="theme_park1">Animal Kingdom</string>
+    <string name="theme_park_info1">Animal Kingdom</string>
+    <string name="theme_park2">Aquatica</string>
+    <string name="theme_park_info2">Aquatica</string>
+    <string name="theme_park3">Bizzard Beach</string>
+    <string name="theme_park_info3">Bizzard Beach</string>
+    <string name="theme_park4">Disney Hollywood Studios</string>
+    <string name="theme_park_info4">Disney Hollywood Studios</string>
+    <string name="theme_park5">Epcot</string>
+    <string name="theme_park_info5">Epcot</string>
+    <string name="theme_park6">GatorLand</string>
+    <string name="theme_park_info6">GatorLand</string>
+    <string name="theme_park7">Holy Land Experience</string>
+    <string name="theme_park_info7">Holy Land Experience</string>
+    <string name="theme_park8">Islands Of Adventure</string>
+    <string name="theme_park_info8">Islands Of Adventure</string>
+    <string name="theme_park9">Magic Kingdom</string>
+    <string name="theme_park_info9">Magic Kingdom</string>
+    <string name="theme_park10">Seaworld</string>
+    <string name="theme_park_info10">Seaworld</string>
+    <string name="theme_park11">Typhoon Lagoon</string>
+    <string name="theme_park_info11">Typhoon Lagoon</string>
+    <string name="theme_park12">WetnWild</string>
+    <string name="theme_park_info12">WetnWild</string>
 
 </resources>
