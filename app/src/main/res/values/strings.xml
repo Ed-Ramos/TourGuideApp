@@ -39,4 +39,72 @@
     <string name="theme_park12">WetnWild</string>
     <string name="theme_park_info12">WetnWild</string>
 
+    <!-- Resorts names and information -->
+    <string name="resort1">Orlando World Center Marriot</string>
+    <string name="resort1_info">High-end resort with golf course, a spa, and multiple pools</string>
+    <string name="resort2">Loews Royal Pacific Resort</string>
+    <string name="resort2_info">Family resort with tropical-themed rooms and suites</string>
+    <string name="resort3">Westgate Lakes Resort and Spa</string>
+    <string name="resort3_info">Laid-back accommodations in a waterfront venue</string>
+    <string name="resort4">The Ritz-Carlton Orlando</string>
+    <string name="resort4_info">Upscale spa resort on 500 acres with 11 restaurants and golf course</string>
+    <string name="resort5">JW Marriot Orlando Grande Lakes</string>
+    <string name="resort5_info">sophisticated rooms and suites with fine dining, spa, and pool</string>
+    <string name="resort6">Hyatt Regency Grand Cypress</string>
+    <string name="resort6_info">Posh resort featuring multiple golf courses and restaurants plus pool complex</string>
+    <string name="resort7">WorldQuest Orlando Resort</string>
+    <string name="resort7_info">Upmarket all-suites property with free wi-fi and shuttle service</string>
+    <string name="resort8">Marriot Cypress Harbour Villas</string>
+    <string name="resort8_info">Polished villas on high-end property with private lake and 3 outdoor pools</string>
+    <string name="resort9">Rosen Shingle Creek</string>
+    <string name="resort9_info">Classy rooms and suites in a spanish style resort plus 4 heated pools</string>
+    <string name="resort10">Hilton Orlando Bonnet Creek</string>
+    <string name="resort10_info">Contemporary resort hotel with a 3-acre pool and lazy river</string>
+
+    <!-- Golf Course names and information -->
+
+    <string name="golf1">DubsDred Golf Course</string>
+    <string name="golf1_info">Address: 549 W Par St, Orlando, FL 32804</string>
+    <string name="golf2">Lake Nona Golf and Country Club</string>
+    <string name="golf2_info">Address: 9100 Chiltern Dr, Orlando, FL 32827</string>
+    <string name="golf3">North Shore Golf Club</string>
+    <string name="golf3_info">Address: 11507 N Shore Golf Club Blvd, Orlando, FL 32832</string>
+    <string name="golf4">Disney Lake Buena Vista Golf Course</string>
+    <string name="golf4_info">Address: 1960 Broadway, Lake Buena Vista, FL 32836</string>
+    <string name="golf5">Rio Pinar Country Club</string>
+    <string name="golf5_info">Address: 8600 El Prado Ave, Orlando, FL 32825</string>
+    <string name="golf6">Shingle Creek Golf Club</string>
+    <string name="golf6_info">Address: 9939 Universal Blvd, Orlando, FL 32819</string>
+    <string name="golf7">Hawks Landing Golf Club</string>
+    <string name="golf7_info">Address: 8701 World Center Dr, Orlando, FL 32821</string>
+    <string name="golf8">Hunters Creek Golf Club</string>
+    <string name="golf8_info">Address: 14401 Sports Club Way, Orlando, FL 32837</string>
+    <string name="golf9">Disneys Palm Golf Course</string>
+    <string name="golf9_info">Address: 1950 Magnolia Palm, Orlando, FL 32830</string>
+    <string name="golf10">Celebration Golf Club</string>
+    <string name="golf10_info">Address: 701 Golfpark Dr, Kissimmee, FL 34747</string>
+
+    <!-- Entertainment names and information -->
+
+    <string name="entertainment1">Mangos Tropical Cafe</string>
+    <string name="entertainment1_info">Night Club-Dancing-Dinner Shows</string>
+    <string name="entertainment2">Universal CityWalk</string>
+    <string name="entertainment2_info">Dining-Shopping-Nightlife</string>
+    <string name="entertainment3">Blue Martini Lounge</string>
+    <string name="entertainment3_info">Live Music-Dancing</string>
+    <string name="entertainment4">Sleuths Mystery Dinner Shows</string>
+    <string name="entertainment4_info">Dining-Funny live shows</string>
+    <string name="entertainment5">BB Kings Blues Club</string>
+    <string name="entertainment5_info">Live blues music-Dining-Drinks</string>
+    <string name="entertainment6">Howl at the Moon Orlando</string>
+    <string name="entertainment6_info">Lively bar featuring dueling piano shows</string>
+    <string name="entertainment7">Ripleys Believe It or Not Museum</string>
+    <string name="entertainment7_info">Museum with kitschy oddities on display</string>
+    <string name="entertainment8">minus5° Ice Bar Orlando</string>
+    <string name="entertainment8_info">Sleek ice bar with specialty cocktails</string>
+    <string name="entertainment9">Dave and Busters</string>
+    <string name="entertainment9_info">Family-friendly chain offering a sports-bar-style setting</string>
+    <string name="entertainment10">Taverna Opa Orlando</string>
+    <string name="entertainment10_info">Diners climb on the tables and shimmy with the belly dancers</string>
+
 </resources>
