@@ -28,7 +28,7 @@ public class ResortsActivity extends AppCompatActivity {
         locations.add(new Location(getString(R.string.resort10),getString(R.string.resort10_info)));
 
         LocationAdapter  adapter =
-                new LocationAdapter(this,locations);
+                new LocationAdapter(this,locations,R.color.category_resorts);
 
         ListView listView = (ListView) findViewById(R.id.list);
 

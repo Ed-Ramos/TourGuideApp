@@ -30,7 +30,7 @@ public class GolfActivity extends AppCompatActivity {
 
 
         LocationAdapter  adapter =
-                new LocationAdapter(this,locations);
+                new LocationAdapter(this,locations,R.color.category_golf);
 
         ListView listView = (ListView) findViewById(R.id.list);
 
