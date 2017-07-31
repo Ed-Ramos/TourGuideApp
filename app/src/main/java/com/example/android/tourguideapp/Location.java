@@ -10,6 +10,8 @@ public class Location {
 
     private String mInfo;
 
+    private float mRating = 0;
+
     /** Image resource ID for the location */
     private int mImageResourceId = NO_IMAGE_PROVIDED;
 
@@ -19,6 +21,7 @@ public class Location {
     public Location(String Name, String Info) {
         mName = Name;
         mInfo = Info;
+
     }
 
     public Location(String Name, String Info, int ImageResourceId) {
@@ -28,6 +31,12 @@ public class Location {
 
     }
 
+    public Location(String Name, String Info, float Rating) {
+        mName = Name;
+        mInfo = Info;
+        mRating = Rating;
+
+    }
     /* get the location name */
     public String getName() {
         return mName;
@@ -47,12 +56,20 @@ public class Location {
     }
 
 
+    public float getRating() {
+        return mRating;
+    }
+
     /**
      * Returns whether or not there is an image for this word.
      */
     public boolean hasImage(){
         return mImageResourceId != NO_IMAGE_PROVIDED;
 
+    }
+
+    public boolean hasRating() {
+        return mRating != 0;
     }
 
 }

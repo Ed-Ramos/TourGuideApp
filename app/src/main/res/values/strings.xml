@@ -13,53 +13,56 @@
     <!-- Category name for the entertainment Category [CHAR LIMIT=20] -->
     <string name="category_entertainment">Entertainment</string>
 
+    <!-- Content Description for Imageview-->
+    <string name="image_of_location">Image of Location</string>
+
     <!-- Theme Park names and information -->
     <string name="theme_park1">Animal Kingdom</string>
-    <string name="theme_park_info1">Animal Kingdom</string>
+    <string name="theme_park_info1">Animal encounters-safaris-shows</string>
     <string name="theme_park2">Aquatica</string>
-    <string name="theme_park_info2">Aquatica</string>
+    <string name="theme_park_info2">Marine life shows and thrill rides</string>
     <string name="theme_park3">Bizzard Beach</string>
-    <string name="theme_park_info3">Bizzard Beach</string>
+    <string name="theme_park_info3">Aquatic playground- Lazy river</string>
     <string name="theme_park4">Disney Hollywood Studios</string>
-    <string name="theme_park_info4">Disney Hollywood Studios</string>
+    <string name="theme_park_info4">Film-centric theme park-Thrill rides</string>
     <string name="theme_park5">Epcot</string>
-    <string name="theme_park_info5">Epcot</string>
+    <string name="theme_park_info5">Educational disney park</string>
     <string name="theme_park6">GatorLand</string>
-    <string name="theme_park_info6">GatorLand</string>
+    <string name="theme_park_info6">Alligator and snake shows-Petting zoo</string>
     <string name="theme_park7">Holy Land Experience</string>
-    <string name="theme_park_info7">Holy Land Experience</string>
+    <string name="theme_park_info7">Christian history exibits-Shows</string>
     <string name="theme_park8">Islands Of Adventure</string>
-    <string name="theme_park_info8">Islands Of Adventure</string>
+    <string name="theme_park_info8">Extreme thrill rides</string>
     <string name="theme_park9">Magic Kingdom</string>
-    <string name="theme_park_info9">Magic Kingdom</string>
+    <string name="theme_park_info9">Classic atrractions-Fireworks</string>
     <string name="theme_park10">Seaworld</string>
-    <string name="theme_park_info10">Seaworld</string>
+    <string name="theme_park_info10">Marine life shows-Fun rides</string>
     <string name="theme_park11">Typhoon Lagoon</string>
-    <string name="theme_park_info11">Typhoon Lagoon</string>
+    <string name="theme_park_info11">Beach-style swimming-Slides</string>
     <string name="theme_park12">WetnWild</string>
-    <string name="theme_park_info12">WetnWild</string>
+    <string name="theme_park_info12">Thrill slides-Wave pool</string>
 
     <!-- Resorts names and information -->
     <string name="resort1">Orlando World Center Marriot</string>
-    <string name="resort1_info">High-end resort with golf course, a spa, and multiple pools</string>
+    <string name="resort1_info">High-end resort with golf course</string>
     <string name="resort2">Loews Royal Pacific Resort</string>
-    <string name="resort2_info">Family resort with tropical-themed rooms and suites</string>
+    <string name="resort2_info">Tropical-themed Family resort</string>
     <string name="resort3">Westgate Lakes Resort and Spa</string>
-    <string name="resort3_info">Laid-back accommodations in a waterfront venue</string>
+    <string name="resort3_info">Relaxing rooms in a waterfront venue</string>
     <string name="resort4">The Ritz-Carlton Orlando</string>
-    <string name="resort4_info">Upscale spa resort on 500 acres with 11 restaurants and golf course</string>
+    <string name="resort4_info">Upscale spa resort on 500 acres</string>
     <string name="resort5">JW Marriot Orlando Grande Lakes</string>
-    <string name="resort5_info">sophisticated rooms and suites with fine dining, spa, and pool</string>
+    <string name="resort5_info">Sophisticated rooms and suites</string>
     <string name="resort6">Hyatt Regency Grand Cypress</string>
-    <string name="resort6_info">Posh resort featuring multiple golf courses and restaurants plus pool complex</string>
+    <string name="resort6_info">Posh resort with multiple golf courses</string>
     <string name="resort7">WorldQuest Orlando Resort</string>
-    <string name="resort7_info">Upmarket all-suites property with free wi-fi and shuttle service</string>
+    <string name="resort7_info">All-suites property with free wi-fi</string>
     <string name="resort8">Marriot Cypress Harbour Villas</string>
-    <string name="resort8_info">Polished villas on high-end property with private lake and 3 outdoor pools</string>
+    <string name="resort8_info">Polished villas on high-end property</string>
     <string name="resort9">Rosen Shingle Creek</string>
-    <string name="resort9_info">Classy rooms and suites in a spanish style resort plus 4 heated pools</string>
+    <string name="resort9_info">Spanish style resort-heated pools</string>
     <string name="resort10">Hilton Orlando Bonnet Creek</string>
-    <string name="resort10_info">Contemporary resort hotel with a 3-acre pool and lazy river</string>
+    <string name="resort10_info">Modern resort with a 3-acre pool</string>
 
     <!-- Golf Course names and information -->
 
