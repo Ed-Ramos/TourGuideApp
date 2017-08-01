@@ -12,9 +12,6 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-/**
- * Created by Edwin on 7/15/2017.
- */
 
 public class LocationAdapter extends ArrayAdapter<Location> {
 

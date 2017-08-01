@@ -67,25 +67,25 @@
     <!-- Golf Course names and information -->
 
     <string name="golf1">DubsDred Golf Course</string>
-    <string name="golf1_info">Address: 549 W Par St, Orlando, FL 32804</string>
+    <string name="golf1_info">549 W Par St, Orlando, FL 32804</string>
     <string name="golf2">Lake Nona Golf and Country Club</string>
-    <string name="golf2_info">Address: 9100 Chiltern Dr, Orlando, FL 32827</string>
+    <string name="golf2_info">9100 Chiltern Dr, Orlando, FL 32827</string>
     <string name="golf3">North Shore Golf Club</string>
-    <string name="golf3_info">Address: 11507 N Shore Golf Club Blvd, Orlando, FL 32832</string>
+    <string name="golf3_info">11507 N Shore Golf Club Blvd, Orlando, FL 32832</string>
     <string name="golf4">Disney Lake Buena Vista Golf Course</string>
-    <string name="golf4_info">Address: 1960 Broadway, Lake Buena Vista, FL 32836</string>
+    <string name="golf4_info">1960 Broadway, Lake Buena Vista, FL 32836</string>
     <string name="golf5">Rio Pinar Country Club</string>
-    <string name="golf5_info">Address: 8600 El Prado Ave, Orlando, FL 32825</string>
+    <string name="golf5_info">8600 El Prado Ave, Orlando, FL 32825</string>
     <string name="golf6">Shingle Creek Golf Club</string>
-    <string name="golf6_info">Address: 9939 Universal Blvd, Orlando, FL 32819</string>
+    <string name="golf6_info">9939 Universal Blvd, Orlando, FL 32819</string>
     <string name="golf7">Hawks Landing Golf Club</string>
-    <string name="golf7_info">Address: 8701 World Center Dr, Orlando, FL 32821</string>
+    <string name="golf7_info">8701 World Center Dr, Orlando, FL 32821</string>
     <string name="golf8">Hunters Creek Golf Club</string>
-    <string name="golf8_info">Address: 14401 Sports Club Way, Orlando, FL 32837</string>
+    <string name="golf8_info">14401 Sports Club Way, Orlando, FL 32837</string>
     <string name="golf9">Disneys Palm Golf Course</string>
-    <string name="golf9_info">Address: 1950 Magnolia Palm, Orlando, FL 32830</string>
+    <string name="golf9_info">1950 Magnolia Palm, Orlando, FL 32830</string>
     <string name="golf10">Celebration Golf Club</string>
-    <string name="golf10_info">Address: 701 Golfpark Dr, Kissimmee, FL 34747</string>
+    <string name="golf10_info">701 Golfpark Dr, Kissimmee, FL 34747</string>
 
     <!-- Entertainment names and information -->
 

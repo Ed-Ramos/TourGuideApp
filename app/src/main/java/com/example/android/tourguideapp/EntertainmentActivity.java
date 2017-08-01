@@ -13,7 +13,6 @@ public class EntertainmentActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.location_list);
 
-
         /* create a new list of entertainment locations */
         ArrayList<Location> locations = new ArrayList<Location>();
 
