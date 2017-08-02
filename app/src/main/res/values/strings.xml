@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Orlando Guide</string>
 
-    <!-- Category name for the Theme Parks Category [CHAR LIMIT=20] -->
+    <!-- Category name for the theme parks Category [CHAR LIMIT=20] -->
     <string name="category_theme_parks">Theme Parks</string>
 
     <!-- Category name for the resorts Category [CHAR LIMIT=20] -->
@@ -65,7 +65,6 @@
     <string name="resort10_info">Modern resort with a 3-acre pool</string>
 
     <!-- Golf Course names and information -->
-
     <string name="golf1">DubsDred Golf Course</string>
     <string name="golf1_info">549 W Par St, Orlando, FL 32804</string>
     <string name="golf2">Lake Nona Golf and Country Club</string>
@@ -88,7 +87,6 @@
     <string name="golf10_info">701 Golfpark Dr, Kissimmee, FL 34747</string>
 
     <!-- Entertainment names and information -->
-
     <string name="entertainment1">Mangos Tropical Cafe</string>
     <string name="entertainment1_info">Night Club-Dancing-Dinner Shows</string>
     <string name="entertainment2">Universal CityWalk</string>

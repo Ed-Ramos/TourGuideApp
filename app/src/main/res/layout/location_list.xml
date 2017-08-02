@@ -11,5 +11,4 @@
     android:paddingTop="16dp"
     android:paddingBottom="16dp"
     tools:context="com.example.android.tourguideapp.ThemeParksActivity">
-
 </ListView>

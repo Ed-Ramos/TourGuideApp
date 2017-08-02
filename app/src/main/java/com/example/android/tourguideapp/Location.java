@@ -17,7 +17,7 @@ public class Location {
     /** Constant value that represents no image was provided for this location*/
     private static final int NO_IMAGE_PROVIDED = -1;
 
-    /** Constant value that represents no image was provided for this location*/
+    /** Constant value that represents no rating was provided for this location*/
     private static final float NO_RATING_PROVIDED = -1;
 
     public Location(String Name, String Info) {
@@ -59,11 +59,12 @@ public class Location {
         return mRating;
     }
 
-    /* Returns whether or not there is an image for this word. */
+    /* Returns whether or not there is an image for this location. */
      public boolean hasImage(){
         return mImageResourceId != NO_IMAGE_PROVIDED;
     }
 
+    /* Returns whether or not there is a rating for this location. */
     public boolean hasRating() {
         return mRating != NO_RATING_PROVIDED;
     }

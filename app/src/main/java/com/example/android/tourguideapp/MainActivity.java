@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
         // Find the View that shows the theme parks category
         TextView theme_parks = (TextView) findViewById(R.id.theme_parks);
 
@@ -29,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(theme_parks_Intent);
             }
         });
-
 
         // Find the View that shows the resorts category
         TextView resorts = (TextView) findViewById(R.id.resorts);
@@ -47,7 +45,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
         // Find the View that shows the golf category
         TextView golf = (TextView) findViewById(R.id.golf);
 
@@ -63,7 +60,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(GolfIntent);
             }
         });
-
 
         // Find the View that shows the entertainment category
         TextView entertainment = (TextView) findViewById(R.id.entertainment);

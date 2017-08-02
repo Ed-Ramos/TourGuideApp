@@ -15,7 +15,7 @@ import java.util.ArrayList;
 
 public class LocationAdapter extends ArrayAdapter<Location> {
 
-    /** Resource ID for the background color for this list of words */
+    /** Resource ID for the background color for this list of locations */
     private int mColorResourceId;
 
 
@@ -44,12 +44,14 @@ public class LocationAdapter extends ArrayAdapter<Location> {
 
         // Find the TextView in the list_item.xml layout with the ID name_text_view
         TextView nameTextView = (TextView) listItemView.findViewById(R.id.name_text_view);
+
         // Get the location name from the current Location object and
         // set this text on the name TextView
         nameTextView.setText(currentLocation.getName());
 
         // Find the TextView in the list_item.xml layout with the ID info_text_view
         TextView numberTextView = (TextView) listItemView.findViewById(R.id.info_text_view);
+
         // Get the location info from the current Location object and
         // set this text on the Info TextView
         numberTextView.setText(currentLocation.getInfo());

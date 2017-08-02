@@ -51,7 +51,6 @@
         android:textColor="@android:color/white"
         tools:text="info1" />
 
-
     <RatingBar
         android:id="@+id/rating_bar"
         style="?android:attr/ratingBarStyleSmall"

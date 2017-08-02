@@ -20,7 +20,6 @@
             android:layout_marginTop="2dp"
             android:text="@string/category_theme_parks"/>
 
-
         <TextView
             android:id="@+id/resorts"
             style="@style/CategoryStyle"
@@ -31,7 +30,6 @@
             android:background="@color/category_resorts"
             android:text="@string/category_resorts" />
      </TableRow>
-
 
     <TableRow
         android:id="@+id/row_2"
